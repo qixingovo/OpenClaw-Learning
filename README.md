@@ -27,7 +27,7 @@ openclaw gateway start
 ### 第 3 步：💻 终端登录
 ```bash
 # 进入文本用户界面
-openclaw tui --password qixingovo
+openclaw tui --password <你的密码>
 ```
 **作用**：启动交互式终端界面，开始 AI 辅助操作
 
